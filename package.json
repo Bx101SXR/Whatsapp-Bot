@@ -1,0 +1,69 @@
+{
+  "name": "NEKOBOT",
+  "version": "3.0.0",
+  "description": "HUNAT AJA GPP Dh biasa",
+  "main": "neko.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node neko",
+    "start": "node neko.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myvinz/chatbotv4"
+  },
+  "keywords": [
+    "botwa",
+    "ramlan",
+    "babybot",
+    "whatsapp"
+  ],
+  "author": "andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myvinz/#license"
+  },
+  "homepage": "https://github.com/myvinz/chatbotv4",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "async": "^3.2.0",
+    "awesome-phonenumber": "^2.47.0",
+    "axios": "^0.21.1",
+    "base64-img": "^1.0.1",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.9.1",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "child_process": "^1.0.2",
+    "cron": "^1.8.2",
+    "crypto": "^1.0.1",
+    "escape-string-regexp": "^4.0.0",
+    "fake-useragent": "^1.0.1",
+    "ffmpeg": "^0.0.4",
+    "figlet": "^1.5.0",
+    "file-type": "^16.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "got": "^11.8.2",
+    "image-to-base64": "^2.1.1",
+    "imgbb-uploader": "^1.3.0",
+    "lolcatjs": "^2.4.0",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "multistream": "^4.1.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "npm": "^7.17.0",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "performance-now": "^2.1.0",
+    "pm2": "^5.1.0",
+    "ra-api": "^1.3.2",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "util": "^0.12.3"
+  }
+}

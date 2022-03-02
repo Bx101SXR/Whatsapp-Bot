@@ -1,0 +1,105 @@
+ case 'bot':
+        tobz.reply(from, 'Iya kaka >//<', id)
+        break
+		case 'Bot':
+        tobz.reply(from, 'Iya kaka >//<', id)
+        break
+		case 'p':
+        tobz.reply(from, 'Salam yang benar dong >//<', id)
+        break
+		case 'Assalamualaikum':
+        tobz.reply(from, ' Waalaikumsalam>//<', id)
+        break
+		case 'neko':
+        tobz.reply(from, 'Kucing Poi >//<', id)
+        break
+		case 'Neko':
+        tobz.reply(from, 'Kucing Poi  >//<', id)
+        break
+		case 'pota':
+        tobz.sendPtt(from, './media/pota.mp3', id)
+        break
+		case 'baka':
+        tobz.sendPtt(from, './media/baka.mp3', id)
+        break
+		case 'p':
+        tobz.sendPtt(from, './media/p.mp3', id)
+        break
+		case 'iri':
+        tobz.sendPtt(from, './media/iri.mp3', id)
+        break
+	    case 'pale':
+        tobz.sendPtt(from, './media/pale.mp3', id)
+        break
+		case 'goodlooking':
+        tobz.sendPtt(from, './media/goodlooking.mp3', id)
+        break
+		case 'mantu':
+        tobz.sendPtt(from, './media/mantu.mp3', id)
+        break
+		case 'menyukaimu':
+        tobz.sendPtt(from, './media/menyukaimu.mp3', id)
+        break
+	    case 'morena':
+        tobz.sendPtt(from, './media/morena.mp3', id)
+        break
+		case 'onichan':
+        tobz.sendPtt(from, './media/onichan.mp3', id)
+        break
+		case 'sound1':
+        tobz.sendPtt(from, './media/sound1.mp3', id)
+        break
+		case 'sound2':
+        tobz.sendPtt(from, './media/sound2.mp3', id)
+        break
+	    case 'sound3':
+        tobz.sendPtt(from, './media/sound3.mp3', id)
+        break
+		case 'sound4':
+        tobz.sendPtt(from, './media/sound4.mp3', id)
+        break
+		case 'sound5':
+        tobz.sendPtt(from, './media/sound5.mp3', id)
+        break
+		case 'sound6':
+        tobz.sendPtt(from, './media/sound6.mp3', id)
+        break
+	    case 'sound7':
+        tobz.sendPtt(from, './media/sound7.mp3', id)
+        break
+		case 'sound8':
+        tobz.sendPtt(from, './media/sound8.mp3', id)
+        break
+		case 'sound9':
+        tobz.sendPtt(from, './media/sound9.mp3', id)
+        break
+		case 'sound10':
+        tobz.sendPtt(from, './media/sound10.mp3', id)
+        break
+	    case 'sound11':
+        tobz.sendPtt(from, './media/sound11.mp3', id)
+        break
+		case 'sound12':
+        tobz.sendPtt(from, './media/sound12.mp3', id)
+        break
+		case 'sound13':
+        tobz.sendPtt(from, './media/sound14.mp3', id)
+        break
+		case 'sound14':
+        tobz.sendPtt(from, './media/sound14.mp3', id)
+        break
+		case 'sound15':
+        tobz.sendPtt(from, './media/sound15.mp3', id)
+        break
+        case 'sound16':
+        tobz.sendPtt(from, './media/sound16.mp3', id)
+        break
+        case 'maklemak':
+        tobz.sendPtt(from, './media/maklemak.mp3', id)
+        break	    	    
+		case 'pagi':
+        tobz.sendPtt(from, './media/ohayo.mp3', id)
+        break	
+        case 'ohayo':
+        tobz.sendPtt(from, './media/ohayo.mp3', id)
+        break	    
